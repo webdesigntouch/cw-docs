@@ -3,6 +3,22 @@ description: >-
   Welcome to the CloudWaitress Knowledge Base! Here, you'll find comprehensive
   articles to help you set up and master our platform, whether you're just
   starting or looking to optimise your operations.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Overview
