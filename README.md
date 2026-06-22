@@ -3,6 +3,7 @@ description: >-
   Welcome to the CloudWaitress Knowledge Base! Here, you'll find comprehensive
   articles to help you set up and master our platform, whether you're just
   starting or looking to optimise your operations.
+hidden: true
 layout:
   width: default
   title:
@@ -18,6 +19,8 @@ layout:
   metadata:
     visible: true
   tags:
+    visible: true
+  actions:
     visible: true
 ---
 
