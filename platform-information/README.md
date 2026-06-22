@@ -2,6 +2,7 @@
 description: >-
   An in-depth look at some of the features we provide along with information on
   managing your subscription
+hidden: true
 ---
 
 # Platform Information
